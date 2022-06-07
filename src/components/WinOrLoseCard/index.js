@@ -1,4 +1,4 @@
-// Write your code here.
+
 import './index.css'
 
 const LOSE_IMAGE = 'https://assets.ccbp.in/frontend/react-js/lose-game-img.png'
